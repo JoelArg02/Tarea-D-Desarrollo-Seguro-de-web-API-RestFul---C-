@@ -37,3 +37,4 @@ C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Prime
 C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Web_API_RESTful ASP.NET core MVC\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Web_API_RESTful ASP.NET core MVC\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Web_API_RESTful ASP.NET core MVC\WebApp\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Joel\OneDrive\Computadores\ESPE\5. Quinto Semestre\Desarrollo web\Primer P\Deberes\Web_API_RESTful ASP.NET core MVC\WebApp\WebApp\obj\Debug\net6.0\WebApp.sourcelink.json
