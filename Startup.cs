@@ -37,7 +37,6 @@ namespace WebApp
             }
             else
             {
-                // Configuraciones para entornos de producción.
             }
 
             app.UseRouting();
